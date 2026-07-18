@@ -5,8 +5,10 @@ Reproductor nativo (ExoPlayer), liviano, con puntero para control remoto.
 
 ## Instalar en TV Box / Android TV (con Downloader)
 1. Abrí la app **Downloader**.
-2. Ingresá la URL de descarga (o el código de Downloader — ver abajo).
+2. Escribí el **código de Downloader: `9368966`**  (o la URL de abajo).
 3. Instalá el APK (activá "orígenes desconocidos" si lo pide).
+
+**Código Downloader:** `9368966`
 
 **Descarga directa (URL fija):**
 `https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk`
