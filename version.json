@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.3",
+  "versionCode": 4,
+  "versionName": "1.4",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "• Los canales se actualizan solos (sin actualizar la app)\n• Siempre abre en un canal funcional\n• Telegram y Código TV ahora en Configuración"
+  "notes": "• MODO TV: catálogo de canales a pantalla completa (botón 📺)\n• Varias listas: se cambian desde la misma TV, tocando el nombre de la lista\n• Abre siempre en la última lista que elegiste\n• Nueva lista 🌎 Mundo TV (261 canales)\n• Zapping con ↑/↓ y CH+/CH−"
 }
