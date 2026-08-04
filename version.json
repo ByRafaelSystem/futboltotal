@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.5",
+  "versionCode": 4,
+  "versionName": "1.4",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "• Nueva página: TV por Internet 2\n• Arreglo para que sus canales reproduzcan en el reproductor interno"
+  "notes": "• MODO TV: catálogo de canales a pantalla completa (botón 📺)\n• Varias listas: se cambian desde la misma TV, tocando el nombre de la lista\n• Abre siempre en la última lista que elegiste\n• Nueva lista 🌎 Mundo TV (261 canales)\n• Zapping con ↑/↓ y CH+/CH−"
 }
