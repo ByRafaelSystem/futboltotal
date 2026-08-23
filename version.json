@@ -2,5 +2,5 @@
   "versionCode": 11,
   "versionName": "2.1",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "v2.1: arreglada la tanda de anuncios — ahora los anuncios se pasan adentro de la app, sin saltar al navegador."
+  "notes": "Se arregló el bug de la publicidad."
 }
