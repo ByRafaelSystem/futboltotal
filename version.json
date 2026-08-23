@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "2.0",
+  "versionCode": 11,
+  "versionName": "2.1",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "⚠️  ACTUALIZACIÓN OBLIGATORIA: la 1.9 deja de recibir canales.\n\n━━━ QUÉ TRAE ━━━\n\n• NUEVA PANTALLA DE INICIO. Al abrir elegís qué querés ver: MODO TV (los canales en vivo) o MODO WEB (deporte libre). PELIS y SERIES están en camino.\n\n• MEJOR CON EL CONTROL. La app va siempre en horizontal y ahora se recorre entera con el control remoto, sin pelearse con el puntero.\n\n• RELOJ EN PANTALLA. Arriba ves cuánto tiempo te queda sin publicidad. Cuando se termina, con el botón \"+ TIEMPO\" sumás 2 horas más en cualquier momento.\n\n━━━ POR QUÉ HAY PUBLICIDAD ━━━\n\nFútbol Total corre sobre un servidor privado que pago yo todos los meses. Los anuncios son lo único que lo mantiene encendido: mirando uno cada tanto, la app sigue andando y gratis para todos.\n\n━━━ SIN ANUNCIOS DE POR VIDA — 5 USD ━━━\n\nUn solo pago y no ves publicidad nunca más en ese aparato. Entrá a \"QUITAR ANUNCIOS\", generá tu token y mandámelo por Telegram (t.me/Mods_Ilimitados) con el comprobante. Te lo activo y listo. El token es tuyo: si cambiás de aparato o reinstalás, lo volvés a usar.\n\nTambién podés apoyar el proyecto con una donación desde la pantalla de inicio.\n\n¡Gracias por bancar! 🙌"
+  "notes": "v2.1: arreglada la tanda de anuncios — ahora los anuncios se pasan adentro de la app, sin saltar al navegador."
 }
