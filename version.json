@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "4.0",
+  "versionCode": 31,
+  "versionName": "4.1",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "Actualización obligatoria. Netflix ya no te da cuentas sin suscripción, las plataformas PRO muestran su estado siempre y en la TV el reloj ya no tapa nada.\n\n━━━ LO NUEVO ━━━\n\n🎬 NETFLIX SIN CUENTAS VENCIDAS — al generar tu acceso, la app comprueba que la cuenta tenga la suscripción activa. Si no la tiene, te avisa \"Esa cuenta no tenía suscripción, te damos otra\", te genera otra sola y no perdés el acceso: sólo se descuenta la que funciona.\n\n🟢 HBO, PRIME Y CRUNCHYROLL SIEMPRE CON SU ESTADO — las tarjetas dicen ACTIVO o INACTIVO apenas abrís la app, aunque se te haya terminado el tiempo.\n\n📺 EL RELOJ YA NO TAPA NADA — en la TV, el reloj y el botón \"+ tiempo\" se ubican al lado del logo de HBO y después del menú de Prime Video, sin tapar ningún botón. En el teléfono, lo mismo en HBO.\n\n☰ MENÚ DE HBO CON EL CONTROL — en la TV ya podés entrar al menú de las tres rayas de HBO y moverte por Inicio, Series, Películas, Canales, Categorías y los géneros.\n\n• Se corrigieron varios errores.\n\n━━━ POR QUÉ HAY PUBLICIDAD ━━━\n\nFútbol Total corre sobre un servidor privado que pago yo todos los meses. Los anuncios son lo único que lo mantiene encendido: mirando uno cada tanto, la app sigue andando y gratis para todos.\n\n━━━ SIN ANUNCIOS — 10 USD ━━━\n\nUn solo pago y no ves publicidad en ese aparato durante un año. Entrá a \"REMOVER ANUNCIOS\", generá tu token y mandámelo con el comprobante por Telegram (t.me/Mods_Ilimitados) o por el grupo de WhatsApp. Te lo activo y listo. El token es tuyo: si reinstalás o cambiás de aparato, lo volvés a usar.\n\nTambién podés apoyar el proyecto con una donación desde la pantalla de inicio.\n\n¡Gracias por bancar! 🙌"
+  "notes": "Actualización obligatoria.\n\n• Se mejoró el soporte para canales."
 }
