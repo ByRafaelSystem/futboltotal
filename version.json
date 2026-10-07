@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "4.1",
+  "versionCode": 32,
+  "versionName": "4.2",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "Actualización obligatoria.\n\n• Se mejoró el soporte para canales."
+  "notes": "Actualización obligatoria.\n\n📱 TELÉFONOS\n• Nuevo modo vertical: la app gira con el teléfono (si tenés la rotación automática activada) y todas las pantallas se adaptan a cualquier tamaño.\n• Inicio renovado en vertical, con accesos rápidos para apoyar el proyecto y remover anuncios.\n• Reproductor en vertical: el video arriba y la lista de canales abajo.\n• Crunchyroll se adapta a la pantalla en vertical, sin tener que desplazarse a los costados.\n• Plataformas: al terminar los anuncios aparece \"Continuar\" y las 2 horas se suman al instante (antes había que reiniciar la app).\n• La lista de canales del reproductor ya no se cierra sola mientras la estás recorriendo.\n\n📺 TV Y TELÉFONOS\n• Cambiá de canal desde la lista sin que se cierre: el canal sigue sonando mientras carga el nuevo, ideal para probar cuál funciona.\n\n📺 TV\n• Se quitó el aviso de cookies de Crunchyroll que tapaba la pantalla."
 }
