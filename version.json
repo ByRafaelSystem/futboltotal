@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "4.3",
+  "versionCode": 34,
+  "versionName": "4.4",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "Actualización obligatoria.\n\n📺 TV Y TELÉFONOS\n• + TIEMPO: ahora elegís cuántas horas sumar de una sola vez, de 2 h hasta 12 h, con los botones − y +.\n• Nuevo botón 🔄 en el Modo TV para actualizar la lista de canales sin reiniciar la app.\n• \"Abrir en TV por defecto\": la app abre directo en el Modo TV y ya no queda vacía si la conexión tarda en arrancar.\n\n📺 TV\n• Prime Video: vuelven los controles del reproductor con el control remoto (pausa, ±10 s, subtítulos, siguiente episodio).\n• HBO Max: se corrigió un botón de volumen repetido que tapaba \"Audio y Subtítulos\"."
+  "notes": "Actualización obligatoria.\n\n📺 TV Y TELÉFONOS\n• Nuevas plataformas PRO: Apple TV y Disney+, con sus logos.\n\n📺 TV\n• Apple TV y Disney+ se navegan completas con el control remoto: elegir perfil, catálogo, fichas y reproductor.\n• Las tarjetas de plataformas ahora se deslizan solas para llegar cómodamente a todas.\n\n📱 TELÉFONOS\n• Disney+: el reloj de tiempo queda siempre visible, al lado del perfil, tanto en vertical como en horizontal."
 }
