@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "4.4",
+  "versionCode": 35,
+  "versionName": "4.5",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "Actualización obligatoria.\n\n📺 TV Y TELÉFONOS\n• Nuevas plataformas PRO: Apple TV y Disney+, con sus logos.\n\n📺 TV\n• Apple TV y Disney+ se navegan completas con el control remoto: elegir perfil, catálogo, fichas y reproductor.\n• Las tarjetas de plataformas ahora se deslizan solas para llegar cómodamente a todas.\n\n📱 TELÉFONOS\n• Disney+: el reloj de tiempo queda siempre visible, al lado del perfil, tanto en vertical como en horizontal."
+  "notes": "Actualización obligatoria.\n\n📺 TV\n• Disney+: los eventos EN VIVO (ESPN) se abren con el control: el foco va directo a VER EN DIRECTO.\n• Disney+: el botón de volver del reproductor ahora se puede elegir con el control.\n• Apple TV: si la cuenta es de otra región, el foco va solo a Continue para cambiar de región y así reproducen todos los títulos.\n\n📺 TV Y TELÉFONOS\n• Apple TV y Disney+ más estables al entrar."
 }
