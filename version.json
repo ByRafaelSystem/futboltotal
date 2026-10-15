@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "4.5",
+  "versionCode": 36,
+  "versionName": "4.6",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "Actualización obligatoria.\n\n📺 TV\n• Disney+: los eventos EN VIVO (ESPN) se abren con el control: el foco va directo a VER EN DIRECTO.\n• Disney+: el botón de volver del reproductor ahora se puede elegir con el control.\n• Apple TV: si la cuenta es de otra región, el foco va solo a Continue para cambiar de región y así reproducen todos los títulos.\n\n📺 TV Y TELÉFONOS\n• Apple TV y Disney+ más estables al entrar."
+  "notes": "Actualizaci\u00f3n obligatoria.\n\n\ud83c\udf10 NUEVO: VPN PRO\n\u2022 Bot\u00f3n VPN en el inicio: conectate a otro pa\u00eds gratis, para todo el aparato. Eleg\u00ed el pa\u00eds de la lista y listo.\n\n\ud83d\udcfa ESTABILIDAD\n\u2022 El VPN, el Modo TV y el Modo Web ahora son independientes: cambiar de uno a otro ya no interrumpe lo que estabas viendo.\n\u2022 En TV el control se mueve mejor por los botones del inicio."
 }
