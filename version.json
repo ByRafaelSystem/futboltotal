@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "5.5",
+  "versionCode": 46,
+  "versionName": "5.6",
   "url": "https://github.com/ByRafaelSystem/futboltotal/releases/latest/download/FutbolTotal.apk",
-  "notes": "Actualización obligatoria.\n\n🔒 Mejoras de seguridad.\n\n🎬 Netflix: ahora elegís tu plan\n• Al entrar a Netflix podés elegir el plan que querés.\n• Estándar y Básico (con anuncios): disponibles para todos.\n• Premium: se desbloquea con el token activo."
+  "notes": "Actualización obligatoria.\n\n🔒 Mejoras de seguridad.\n\n🌐 VPN + anuncios: al mirar un anuncio para sumar tiempo, el VPN se apaga un momento y se reconecta solo a tu país al terminar (para que el anuncio cuente bien)."
 }
